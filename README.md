@@ -1,2 +1,4 @@
 # fixsonos
-Sonos at home
+Sonos at home.
+
+using: https://soco.readthedocs.io/en/latest/
